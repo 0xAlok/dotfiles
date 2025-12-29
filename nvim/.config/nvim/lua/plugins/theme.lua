@@ -1,0 +1,1 @@
+/home/alok/.config/omarchy/current/theme/neovim.lua
